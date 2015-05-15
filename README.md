@@ -3,8 +3,8 @@
 #### Table of Contents
 
 1. [Overview](#overview)
-4. [Usage - Configuration options and additional functionality](#usage)
-5. [Limitations - OS compatibility, etc.](#limitations)
+4. [Usage](#usage)
+5. [Limitations](#limitations)
 
 ## Overview
 
